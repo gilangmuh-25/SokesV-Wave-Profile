@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670737161 source:d:\kuliah pasca\thesis\testc++\new folder\stokesv_generation\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
